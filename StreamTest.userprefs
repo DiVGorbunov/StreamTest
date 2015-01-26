@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Standard Assets\Scripts\FindHwnd.cs">
+    <Files>
+      <File FileName="Assets\Standard Assets\Scripts\CameraPostRender.cs" Line="19" Column="3" />
+      <File FileName="Assets\Standard Assets\Scripts\FindHwnd.cs" Line="31" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\DiV\Documents\StreamTest\Assets\Standard Assets\Scripts\FindHwnd.cs" line="59" />
+      <Breakpoint file="C:\Users\DiV\Documents\StreamTest\Assets\Standard Assets\Scripts\FindHwnd.cs" line="80" />
+      <Breakpoint file="C:\Users\DiV\Documents\StreamTest\Assets\Standard Assets\Scripts\FindHwnd.cs" line="67" />
+      <Breakpoint file="C:\Users\DiV\Documents\StreamTest\Assets\Standard Assets\Scripts\FindHwnd.cs" line="78" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
